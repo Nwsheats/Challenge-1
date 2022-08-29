@@ -24,6 +24,11 @@ body {
     color: #d9dcd6;
 }
 
+/* I changed the instances of .header div to .header nav
+
+Affected: .header nav, .header nav ul, .header nav ul li
+*/
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
