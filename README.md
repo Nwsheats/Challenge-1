@@ -9,7 +9,7 @@ This project is to refactor the existing code for Horiseon to match accessibilit
 ![This refactored Horiseon site contains a navigation bar, a header image, and cards with text and images at the bottom of the page.](01-html-css-git-homework-demo.png)
 
 ## Deployed URL:
-https://nwsheats.github.io/Horiseon-Refactoring-Project/#social-media-marketing
+https://nwsheats.github.io/Horiseon-Refactoring-Project/
 
 ## URL of GitHub Repository:
 
